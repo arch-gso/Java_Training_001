@@ -16,6 +16,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basic-java-training" options="--add-modules java.base" />
       <module name="java-training-draft" options="--add-modules java.base" />
     </option>
   </component>
